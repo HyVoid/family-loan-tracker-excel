@@ -8,7 +8,7 @@
 
 > **Try the free web-based calculator. For users requiring permanent financial records, offline audit trails, and repeated monthly account servicing, you can download the fully unlocked Excel template with a 30-day money-back guarantee.**
 >
-> 🌐 Open in Browser → [Try the Free Inter-Family Loan Tracker Web App (Live Demo)](https://hyvoid.github.io/Family-Long-Term-Fund-Flow-Interest-Reconciliation-Excel-Toolkit/)
+> 🌐 Open in Browser → [Try the Free Inter-Family Loan Tracker Web App (Live Demo)](https://hyvoid.github.io/family-loan-tracker-excel/)
 > 
 > 📥 Download Template → [Download the Reusable Excel Template for Family Loan Reconciliation (Offline Version)](https://www.theseusworkshop.com/l/auauhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=family-fund-interest-reconciliation)  
 
