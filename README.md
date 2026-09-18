@@ -10,7 +10,7 @@
 >
 > 🌐 Open in Browser → [Try the Free Inter-Family Loan Tracker Web App (Live Demo)](https://hyvoid.github.io/family-loan-tracker-excel/)
 > 
-> 📥 Download Template → [Download the Reusable Excel Template for Family Loan Reconciliation (Offline Version)](https://www.theseusworkshop.com/l/auauhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=family-fund-interest-reconciliation)  
+> 📥 Download Template → [Download the Reusable Excel Template for Family Loan Reconciliation (Offline Version)](https://theseusworkshop.com/l/auauhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=family-fund-interest-reconciliation)  
 
 ## Core Features: Pain Points vs. Tracking Solutions
 
@@ -41,7 +41,7 @@ Let the dynamic calculation engine process the data. It will automatically sort 
 **Step 4: Maintain Ongoing Repayment Records**
 As new payments are made, simply append them to the bottom of the ledger. The engine instantly recalculates the accrued interest and total outstanding balance up to the current date.
 
-👉 **Ready to build a permanent record?** [Download the Excel Template](https://www.theseusworkshop.com/l/auauhp) to securely store your private financial data offline and reuse the calculation engine for ongoing monthly reconciliation.
+👉 **Ready to build a permanent record?** [Download the Excel Template](https://theseusworkshop.com/l/auauhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=family-fund-interest-reconciliation) to securely store your private financial data offline and reuse the calculation engine for ongoing monthly reconciliation.
 
 ## Why I Built This Family Fund Reconciliation Tool
 
