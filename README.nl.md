@@ -144,7 +144,7 @@ Dit stelt de netto hoofdsom vast maar zegt niets over hoe lang verschillende sal
 Rente hangt af van zowel hoofdsom als verstreken tijd.
 
 **4. Waarom het redeneerwerk onvolledig is:**
-Een $10,000 saldo dat jaren uitstond is economisch verschillend van een $10,000 saldo dat recent verscheen.
+Een $10.000 saldo dat jaren uitstond is economisch verschillend van een $10.000 saldo dat recent verscheen.
 
 **5. Gecorrigeerde aanpak:**
 Reconstrueer de lopende hoofdsom na elke transactie en bereken elk interval afzonderlijk.
@@ -249,10 +249,10 @@ Beschouw een vereenvoudigde historische reeks:
 
 | Datum       | Richting |  Bedrag |
 | ---------- | --------- | ------: |
-| 2020-01-15 | Voorschot   | $20,000 |
-| 2020-09-01 | Voorschot   | $10,000 |
-| 2021-06-15 | Aflossing |  $8,000 |
-| 2022-03-01 | Aflossing |  $5,000 |
+| 2020-01-15 | Voorschot   | $20.000 |
+| 2020-09-01 | Voorschot   | $10.000 |
+| 2021-06-15 | Aflossing |  $8.000 |
+| 2022-03-01 | Aflossing |  $5.000 |
 
 De gestandaardiseerde beweging wordt:
 
@@ -272,7 +272,7 @@ After 2021-06-15    $22,000
 After 2022-03-01    $17,000
 ```
 
-De belangrijke analytische verandering is dat rente niet wordt berekend tegen $17,000 voor de gehele historische periode.
+De belangrijke analytische verandering is dat rente niet wordt berekend tegen $17.000 voor de gehele historische periode.
 
 In plaats daarvan herkent de engine verschillende saldo-intervallen:
 
