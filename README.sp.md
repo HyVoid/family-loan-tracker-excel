@@ -144,7 +144,7 @@ Esto establece el capital neto pero no dice nada sobre cuánto tiempo permanecie
 El interés depende tanto del capital como del tiempo transcurrido.
 
 **4. Por qué el razonamiento es incompleto:**
-Un saldo de $10,000 pendiente durante varios años es económicamente diferente de un saldo de $10,000 que apareció recientemente.
+Un saldo de $10.000 pendiente durante varios años es económicamente diferente de un saldo de $10.000 que apareció recientemente.
 
 **5. Enfoque corregido:**
 Reconstruir el principal corriente después de cada transacción y calcular cada intervalo por separado.
@@ -249,10 +249,10 @@ Considere una secuencia histórica simplificada:
 
 | Fecha       | Dirección |  Importe |
 | ---------- | --------- | ------: |
-| 2020-01-15 | Adelanto   | $20,000 |
-| 2020-09-01 | Adelanto   | $10,000 |
-| 2021-06-15 | Reembolso |  $8,000 |
-| 2022-03-01 | Reembolso |  $5,000 |
+| 2020-01-15 | Adelanto   | $20.000 |
+| 2020-09-01 | Adelanto   | $10.000 |
+| 2021-06-15 | Reembolso |  $8.000 |
+| 2022-03-01 | Reembolso |  $5.000 |
 
 El movimiento estandarizado se convierte en:
 
@@ -272,7 +272,7 @@ After 2021-06-15    $22,000
 After 2022-03-01    $17,000
 ```
 
-El cambio analítico importante es que el interés no se calcula contra $17,000 durante todo el período histórico.
+El cambio analítico importante es que el interés no se calcula contra $17.000 durante todo el período histórico.
 
 En su lugar, el motor reconoce diferentes intervalos de saldo:
 
