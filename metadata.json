@@ -1,6 +1,6 @@
 {
-  "name": "Family Long-Term Fund Flow & Interest Reconciliation Excel Toolkit",
-  "description": "Family long-term fund flow historical balance and interest accounting system with dynamic interest rate schedule, real-time calculation engine, and backup management.",
+  "name": "Theseus Workshop - Family Long-Term Fund Flow & Interest Reconciliation Toolkit",
+  "description": "Family long-term fund flow historical balance and interest accounting system by Theseus Workshop, featuring dynamic interest rate schedules, multi-tier reconciliation engine, and audit ledger tracking.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

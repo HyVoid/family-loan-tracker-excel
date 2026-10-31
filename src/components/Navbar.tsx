@@ -42,16 +42,32 @@ export const Navbar: React.FC<NavbarProps> = ({
             <PanelLeft className="w-4 h-4 text-[#2251FF]" />
           </button>
 
-          <div className="w-8 h-8 rounded-md bg-[#051C2C] border border-[#051C2C] flex items-center justify-center text-white font-heading font-bold text-base shadow-2xs shrink-0">
-            F
+          {/* Theseus Workshop Brand Monogram Emblem */}
+          <div className="w-9 h-9 rounded-lg bg-[#051C2C] border border-[#051C2C] flex items-center justify-center text-white shadow-xs shrink-0 relative overflow-hidden group">
+            <div className="absolute inset-0 bg-gradient-to-br from-[#2251FF]/30 to-transparent pointer-events-none" />
+            <span className="font-heading font-bold text-xs tracking-wider text-white">TW</span>
           </div>
           
           <div className="min-w-0">
             <div className="flex items-center space-x-2 truncate">
-              <h1 className="font-heading font-bold text-sm sm:text-base md:text-lg text-[#051C2C] leading-snug tracking-tight truncate">
-                Family Long-Term Fund Flow & Interest Reconciliation Excel Toolkit
+              {/* Brand Indicator */}
+              <div className="flex items-center space-x-1.5 shrink-0">
+                <span className="font-heading font-bold text-xs sm:text-sm tracking-tight text-[#051C2C]">
+                  Theseus Workshop
+                </span>
+                <span className="px-1.5 py-0.2 text-[9px] font-mono font-semibold bg-[#2251FF]/10 text-[#2251FF] border border-[#2251FF]/20 rounded shrink-0 uppercase">
+                  Studio
+                </span>
+              </div>
+
+              <span className="text-[#D0D0CD] text-xs shrink-0">/</span>
+
+              {/* Product Application Content */}
+              <h1 className="font-heading font-bold text-xs sm:text-sm md:text-[15px] text-[#051C2C] leading-snug tracking-tight truncate">
+                Family Long-Term Fund Flow & Interest Reconciliation Toolkit
               </h1>
-              <span className="hidden md:inline-block px-2 py-0.5 text-[10px] font-mono font-semibold bg-[#2251FF]/10 text-[#2251FF] border border-[#2251FF]/20 rounded shrink-0">
+              
+              <span className="hidden xl:inline-block px-1.5 py-0.2 text-[10px] font-mono font-medium bg-[#051C2C]/5 text-[#051C2C] border border-[#051C2C]/15 rounded shrink-0">
                 v1.0 Pro
               </span>
             </div>

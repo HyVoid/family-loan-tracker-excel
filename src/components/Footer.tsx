@@ -12,7 +12,7 @@ export const Footer: React.FC = () => {
           </span>
         </div>
         <div className="font-mono text-[11px] text-[#888888]">
-          Family Long-Term Fund Flow & Interest Reconciliation Excel Toolkit &copy; {new Date().getFullYear()}
+          Theseus Workshop &bull; Family Long-Term Fund Flow & Interest Reconciliation Toolkit &copy; {new Date().getFullYear()}
         </div>
       </div>
     </footer>
