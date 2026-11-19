@@ -1,6 +1,8 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Family Loan & Fund Flow Reconciliation Toolkit: Running Balance & Interest Calculator Excel Template
+<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/b1fcefc9-08d3-467c-b57f-d3ce84c85dc4" />
+
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](#license)
 [![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)](#access)
