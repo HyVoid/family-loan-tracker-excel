@@ -29,6 +29,14 @@ Instead of tracking cumulative transfers that fail to show the true financial po
 | **Unexplained lump-sum final balances** | Splits the current outstanding total into distinctly auditable columns: **Principal vs. Accrued Interest**. |
 | **Manually extending formulas for new payments** | Auto-extends the calculation date to "Today," rolling over the current total outstanding automatically. |
 
+## Spreadsheet Preview
+
+Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+
+**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1RSSBntal8NpCcZ7kQkvuOOjyZfdIQcxt/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
+
 ## Quick Start Tutorial: How to Reconstruct Your Financial Records
 
 Follow this workflow to transform disorganized financial history into a clean, auditable balance sheet. 
